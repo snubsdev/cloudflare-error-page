@@ -1,4 +1,4 @@
-# Cloudflare Error Page (React Version)
+# Cloudflare Error Page (React Version) (2)
 
 A pixel-perfect, static React implementation of the classic Cloudflare error page.
 
